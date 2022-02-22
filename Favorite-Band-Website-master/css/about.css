@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+
+.biographyPar{
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	font-size: 35px;
+}
+
+.individualPar{
+	padding: 15px;
+}
+
+.headerPhoto{
+	display: inline-block;
+	margin-left: 440px;
+	padding: 20px;
+}

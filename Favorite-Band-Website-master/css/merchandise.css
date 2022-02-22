@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+
+img{
+	padding: 25px;
+	height: 400px;
+	width: 400px;
+}
+
+#pageSeller{
+	margin-top: 35px;
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+	font-size: 40px;
+	color: white;
+	margin-right: 40px;
+	margin-left: 40px;
+	padding-bottom: 30px;
+}
+
+.prices{
+	display: flex;
+	font-family: 'Dosis', sans-serif;
+	font-size: 20px;
+	color: white;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+
+figcaption{
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	font-size: 20px;
+}
+
+section{
+	display: flex;
+	justify-content: center;
+}
+
+figure{
+	margin: 25px;
+}
+
+.songs{
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	font-size: 25px;
+	margin: 20px;
+}
